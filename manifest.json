@@ -1,0 +1,15 @@
+{
+  "author": "igorlogius",
+  "homepage_url": "https://github.com/igorlogius/link-to-text",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "description": "Create links that point to a fragment of text on a page",
+  "icons": {
+    "100": "icon.png"
+  },
+  "manifest_version": 2,
+  "name": "Link to Text",
+  "permissions": ["menus", "activeTab"],
+  "version": "1.0.2"
+}
